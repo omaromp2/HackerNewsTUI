@@ -2,7 +2,7 @@
 
 A simple and fast terminal user interface for browsing Hacker News, built with Rust and [ratatui](https://github.com/ratatui-org/ratatui).
 
-![HN TUI Screenshot](https://via.placeholder.com/800x600?text=Hacker+News+TUI+Screenshot)
+<!-- ![HN TUI Screenshot](https://via.placeholder.com/800x600?text=Hacker+News+TUI+Screenshot) --> 
 
 ## Features
 
@@ -51,7 +51,7 @@ cargo build --release
 cargo install --path .
 ```
 
-Or download a prebuilt binary from the [Releases](https://github.com/yourusername/hn-tui/releases) page.
+<!-- Or download a prebuilt binary from the [Releases](https://github.com/yourusername/hn-tui/releases) page. --> 
 
 ## Usage
 
@@ -81,9 +81,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
+<!-- ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. --> 
 
 ## Acknowledgments
 
