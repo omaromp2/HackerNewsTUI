@@ -40,7 +40,7 @@ A simple and fast terminal user interface for browsing Hacker News, built with R
 ### Build from Source
 
 ```bash
-git clone https://github.com/yourusername/hn-tui.git
+git clone https://github.com/omaromp2/hn-tui.git
 cd hn-tui
 cargo build --release
 ```
